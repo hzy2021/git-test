@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("push test");
 
         System.out.println("新增的内容");
+        System.out.println("mac 修改");
     }
 }
