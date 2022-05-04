@@ -9,6 +9,6 @@ public class GitTest {
         System.out.println("mac pull-test");
         System.out.println("mac pull-test2");
         System.out.println("web-conflict");
-        System.out.println("local conflict");
+        System.out.println("local conflict123");
     }
 }
