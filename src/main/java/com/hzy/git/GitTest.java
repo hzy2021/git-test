@@ -13,5 +13,8 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("dev-test");
         System.out.println("dev-test2");
+        System.out.println("mac dev-test3");
+        System.out.println("mac dev-test4");
+
     }
 }
