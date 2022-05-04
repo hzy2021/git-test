@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("mac pull-test");
         System.out.println("mac pull-test2");
+        System.out.println("local conflict");
     }
 }
