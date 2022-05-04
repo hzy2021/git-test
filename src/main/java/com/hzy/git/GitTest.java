@@ -15,6 +15,7 @@ public class GitTest {
         System.out.println("dev-test2");
         System.out.println("mac dev-test3");
         System.out.println("mac dev-test4");
-
+        
+        System.out.println("mac pull-test2");
     }
 }
